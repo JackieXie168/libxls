@@ -1,4 +1,0 @@
-buildconf
-configure
-make
-make install
